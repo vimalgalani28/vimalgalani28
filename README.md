@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vimal Galani. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <h3 align="center">I'm pursuing computer engineering at PICT, Pune.</h3>
-<p>I'm a Software development aspirant with a keen interest in full-stack development, DevOps and Cloud Computing.👨‍💻 I have a small interest in video editing too.✨ I am fond of watching movies, TV-Shows, etc.📺</p>
+<p>I'm a Software development aspirant with a keen interest in full-stack development, DevOps and Cloud Computing.👨‍💻 I have a small interest in video editing too.✨ I have fond of watching movies, TV-Shows, etc.📺</p>
 
 #
 
@@ -18,6 +18,7 @@
   <a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ"   alt="docker" width="50" height="50"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/webpack/media/blob/master/logo/logo-on-white-bg.png" height="50" alt="Webpack"/> </a>
 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/c-plus-plus-logo.png" alt="cplusplus" width="50" height="50"/> </a>
