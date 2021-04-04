@@ -24,7 +24,7 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="50" height="50"/> </a>
 </p>
 
-<p align="center">
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=vimalgalani28&count_private=true&show_icons=true&include_all_commits=true&theme=dark" alt="Github Stats" />
   &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalgalani28&hide=TeX&layout=compact&theme=dark" alt="Top Languages"/>
