@@ -25,8 +25,8 @@
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=vimalgalani28&count_private=true&show_icons=true&include_all_commits=true&theme=dark" alt="Github Stats" />
-  &nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=vimalgalani28&count_private=true&show_icons=true&include_all_commits=true&theme=dark" alt="Github Stats" width="350"/>
+  &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalgalani28&hide=TeX&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
