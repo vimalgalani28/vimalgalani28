@@ -38,7 +38,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/vimal_galani" title="Instagram">
-    <img src="https://img.icons8.com/color/64/instagram.png" alt="Instagram" width="50" height="50" />
+    <img src="https://img.icons8.com/color/64/000000/instagram-new.png" alt="Instagram" width="50" height="50" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:vimalgalani28@gmail.com" title="Mail me">
