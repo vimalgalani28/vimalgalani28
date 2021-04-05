@@ -10,6 +10,7 @@
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/css3.png" alt="css3" width="50" height="50"/></a>
  <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="50" height="50"/> </a>
  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/4a90e2/bootstrap.png" alt="bootstrap" width="50" height="50"/> </a>
+ <a href="https://sass-lang.com/" target="_blank"> <img src="https://github.com/vimalgalani28/vimalgalani28/blob/main/sass-1.svg" alt="sass" width="50" height="50"/> </a>
  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="reactjs" width="50" height="50"/> </a>
  <a href="https://redux.js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png" alt="redux" width="50" height="50"/> </a>
  <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/windows/32/000000/node-js.png" alt="nodejs" width="50" height="50"/> </a>
