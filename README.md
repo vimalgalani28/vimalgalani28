@@ -18,7 +18,7 @@
   <a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ"   alt="docker" width="50" height="50"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux"/> </a>
-  <a href="https://webpack.js.org//" target="_blank"> <img src="https://github.com/webpack/media/blob/master/logo/logo-on-white-bg.png" height="50" alt="Webpack"/> </a>
+  <a href="https://webpack.js.org/" target="_blank"> <img src="https://github.com/webpack/media/blob/master/logo/logo-on-white-bg.png" height="50" alt="Webpack"/> </a>
 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/c-plus-plus-logo.png" alt="cplusplus" width="50" height="50"/> </a>
