@@ -47,7 +47,7 @@
     <img src="https://img.icons8.com/color/64/gmail.png" alt="mail" width="50" height="50" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1PomSE6lhwnkwrfC5zb5FYsVMqS2WC6MS/view?usp=sharing" title="Resume">
+  <a href="https://docs.google.com/document/d/14LIKZROOpDQxkafwUbJR6_F68qFE4aB0ctnrwf3Pyds/edit?usp=sharing" title="Resume">
     <img src="https://img.icons8.com/color/64/resume.png" alt="Resume" width="50" height="50" />
   </a>
   &nbsp;&nbsp;
